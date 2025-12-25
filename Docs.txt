@@ -1,0 +1,8 @@
+====> Good/Bad Wine based on quality >=7
+
+====> achieved 93.5% accuracy
+
+====> model.py: Trains Random Forest on binary labels, prints 93.5% accuracy.
+
+====> app.py: Streamlit UI with sidebar navigation, input sliders, prediction display, 
+      and data analysis with accuracy metric.
